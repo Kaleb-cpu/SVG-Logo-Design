@@ -1,18 +1,23 @@
 
 svg {
   max-width: 200px;
-
-}
-h2{
-  color: brown;
+   
 }
 body{
   margin: auto;
   max-width: max-content;
 }
 .colored{
-  padding-top: 50px;
+  padding-top: 10px;
 }
-.mono:hover{
+.mono2 {
+  padding-top: 10px;
+}
+
+/* Dimensions */
+h2{
+  color: brown;
+}
+.effect:hover{
   fill: blue;
 }
