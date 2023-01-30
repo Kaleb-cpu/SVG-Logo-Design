@@ -1,7 +1,15 @@
+
 svg {
   max-width: 200px;
 
 }
 h2{
   color: brown;
+}
+body{
+  margin: auto;
+  max-width: max-content;
+}
+.colored{
+  padding-top: 50px;
 }
