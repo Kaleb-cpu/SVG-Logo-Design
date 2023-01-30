@@ -13,3 +13,6 @@ body{
 .colored{
   padding-top: 50px;
 }
+.mono:hover{
+  fill: blue;
+}
